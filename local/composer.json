@@ -1,0 +1,14 @@
+{
+    "name": "votanko/local",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Votanko",
+            "email": "votanko@gmail.com"
+        }
+    ],
+    "require": {
+        "robmorgan/phinx": "^0.10.5",
+        "illuminate/validation": "5.4.*"
+    }
+}
